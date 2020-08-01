@@ -6,6 +6,8 @@ This project was bootstrapped with Create React App.
 ```
 npm install -g create-react-app 
 ```
+Use ``` npm start ``` to render UI in browser
+
 #### FrameWorks and Tools:
 React, D3, Ant Design, Node.js, NPM, etc.
 
